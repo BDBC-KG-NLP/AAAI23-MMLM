@@ -1,4 +1,4 @@
-# AAAI23_MMLM
+# AAAI23-MMLM
 
 Codes for Multi-Mask Label Mapping for Prompt-based Learning
 
